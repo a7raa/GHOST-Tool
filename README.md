@@ -1,3 +1,6 @@
+# 🌐 [اضغط هنا لزيارة الموقع الرسمي للأداة](https://a7raa.github.io/GHOST-Tool/)
+---
+
 # 🤖 GHOST-Tool: My Personal AI Assistant
 مساعد ذكي خاص يعمل على بيئة Termux باستخدام لغة Python.
 
