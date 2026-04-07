@@ -1,4 +1,4 @@
-# 🌐 [اضغط هنا لزيارة الموقع الرسمي للأداة](https://a7raa.github.io/GHOST-Tool/)
+https://a7raa.github.io/GHOST-Tool/
 ---
 
 # 🤖 GHOST-Tool: My Personal AI Assistant
